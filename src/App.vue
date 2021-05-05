@@ -1,26 +1,35 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <Nav/>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import '@/_reset.css'
+import Nav from './components/Nav.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    Nav
   }
 }
 </script>
 
 <style lang="scss">
+@font-face {
+  font-family: SFProDisplay-Bold;
+  src: url('./assets/fonts/SFProDisplay-Bold.ttf');
+}
+@font-face {
+  font-family: SFProDisplay-Medium;
+  src: url('./assets/fonts/SFProDisplay-Medium.ttf');
+}
+@font-face {
+  font-family: SFProDisplay-Regular;
+  src: url('./assets/fonts/SFProDisplay-Regular.ttf');
+}
+body {
+  background-color: #E5E5E5;
+}
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
 }
 </style>
