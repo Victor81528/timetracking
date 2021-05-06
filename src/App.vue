@@ -31,8 +31,6 @@ export default {
   src: url('./assets/fonts/SFProDisplay-Regular.ttf');
 }
 body {
-  background-color: #E5E5E5;
-}
-#app {
+  background-color: #F9F9F9;
 }
 </style>
