@@ -1,15 +1,18 @@
 <template>
-  <Nav/>
+  <NavBar/>
+  <Content/>
 </template>
 
 <script>
 import '@/_reset.css'
-import Nav from './components/Nav.vue'
+import NavBar from './components/NavBar.vue'
+import Content from './components/Content.vue'
 
 export default {
   name: 'App',
   components: {
-    Nav
+    NavBar,
+    Content
   }
 }
 </script>
