@@ -1,3 +1,7 @@
 首次嘗試使用 Vue 3 開發  
 
 主要作為切版練習以及熟悉 Vue 3 配置
+
+使用 semantic tags 以優化 SEO
+
+設計稿是 .figma，藉此機會熟悉簡易的 figma 操作
