@@ -8,3 +8,8 @@
 
 主要 breakpoint 為 ：1024px、414px
 開發用瀏覽器： Edge 90
+
+UI設計稿取自於 Figma community
+  https://www.figma.com/community/file/876455506114947378/Time-Tracking-Landing-Page-Hero
+  作者： Metehan Kaya
+  個人網站：https://www.metehankaya.com/
