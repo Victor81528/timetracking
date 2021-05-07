@@ -4,4 +4,4 @@
 
 使用 semantic tags 以優化 SEO
 
-設計稿是 .figma，藉此機會熟悉簡易的 figma 操作
+設計稿是 .figma，藉此機會熟悉 figma 操作
