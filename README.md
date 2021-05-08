@@ -6,8 +6,13 @@
 
 設計稿是 .figma，藉此機會熟悉 figma 操作
 
-主要 breakpoint 為 ：1024px、414px
+開發過程意識到這除了一頁式網站，應該也是無捲軸的，因此實作 RWD 時將 height 也列入考量。
+
+
+主要 breakpoint 為 ： 1024px、414px
+面向 divice： 桌機、平板、手機
 開發用瀏覽器： Edge 90
+
 
 UI設計稿取自於 Figma community
   https://www.figma.com/community/file/876455506114947378/Time-Tracking-Landing-Page-Hero

@@ -32,5 +32,9 @@ export default {
 }
 body {
   background-color: #F9F9F9;
+  #app {
+    width: 100vw;
+    height: 100vh;
+  }
 }
 </style>

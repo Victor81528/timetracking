@@ -102,8 +102,6 @@ export default {
             border-radius: 8px;
             background-color: #F9F9F9;
             color: #22322F;
-            img {
-            }
             p {
               font-size: 12px;
               line-height: 19.2px;
