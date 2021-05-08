@@ -9,7 +9,7 @@
 開發過程意識到這除了一頁式網站，應該也是無捲軸的，因此實作 RWD 時將 height 也列入考量。
 
 
-主要 breakpoint 為 ： 1024px、414px
+主要 breakpoint 為 ： 1024px、768px、414px
 面向 divice： 桌機、平板、手機
 開發用瀏覽器： Edge 90
 
