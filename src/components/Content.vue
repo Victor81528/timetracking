@@ -49,6 +49,7 @@ export default {
       }
       @media screen and (max-width: 768px) {
         padding: 0 80px;
+        margin-top: calc(123px + 47px)
       }
       @media screen and (max-width: 414px) {
         padding: 0;
@@ -120,8 +121,10 @@ export default {
           width: 100%;
           margin-bottom: 120px;
         }
-        @media screen and (max-width: 414px) {
+        @media screen and (max-width: 768px) {
           margin-bottom: 48px;
+        }
+        @media screen and (max-width: 414px) {
           padding: 0 43px 0 24px;
         }
         img {
