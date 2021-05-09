@@ -8,6 +8,8 @@
 
 開發過程意識到這除了一頁式網站，應該也是無捲軸的，因此實作 RWD 時將 height 也列入考量。
 
+因為排版問題，在 height 低於 811px 時取消 Full page。
+
 
 主要 breakpoint 為 ： 1024px、768px、414px
 面向 divice： 桌機、平板、手機
