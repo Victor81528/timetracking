@@ -1,6 +1,6 @@
 首次嘗試使用 Vue 3 開發  
 
-主要作為切版練習以及熟悉 Vue 3 配置
+主要作為切版練習
 
 使用 semantic tags 以優化 SEO
 
@@ -12,8 +12,8 @@
 
 
 主要 breakpoint 為 ： 1024px、768px、414px
-面向 divice： 桌機、平板、手機
-開發用瀏覽器： Edge 90
+面向 device： 桌機、平板、手機
+開發用瀏覽器： Edge 90 for macOS
 
 
 UI設計稿取自於 Figma community
