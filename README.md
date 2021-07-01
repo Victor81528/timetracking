@@ -12,10 +12,10 @@
 
 主要 breakpoint 為 ： 1024px、768px、414px\
 面向 device： 桌機、平板、手機\
-開發用瀏覽器： Edge 90 for macOS
+開發用瀏覽器： Edge 90 for macOS\
 
 
-UI設計稿取自於 Figma community
-https://www.figma.com/community/file/876455506114947378/Time-Tracking-Landing-Page-Hero\
-  作者： Metehan Kaya\
-  個人網站：https://www.metehankaya.com/
+UI設計稿取自於 
+[Figma community](https://www.figma.com/community/file/876455506114947378/Time-Tracking-Landing-Page-Hero)\
+作者： Metehan Kaya\
+[個人網站](https://www.metehankaya.com)
