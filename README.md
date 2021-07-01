@@ -1,6 +1,6 @@
 # Timetracking RWD實作
 
-[點我點我](https://victor81528.github.io/timetracking/)\
+[點我點我](https://victor81528.github.io/timetracking/)
 
 主要作為切版練習
 
