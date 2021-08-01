@@ -20,8 +20,4 @@
 UI設計稿取自於 
 [Figma community](https://www.figma.com/community/file/876455506114947378/Time-Tracking-Landing-Page-Hero)\
 作者： Metehan Kaya\
-<<<<<<< HEAD
-[個人網站](https://www.metehankaya.com)
-=======
 [作者的個人網站](https://www.metehankaya.com)
->>>>>>> develop
