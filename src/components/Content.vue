@@ -30,8 +30,8 @@ export default {
     position: relative;
     top: -123px;
     min-height: 100%;
-    @media screen and (max-height: 811px) {
-      height: 811px;
+    @media screen and (max-height: 767px) {
+      height: 767px;
     }
     @media screen and (max-width: 1024px) {
       height: auto;
@@ -115,6 +115,7 @@ export default {
       .right {
         display: flex;
         height: 100%;
+        flex-flow: nowrap row;
         align-items: center;
         box-sizing: border-box;
         @media screen and (max-width: 1024px) {
@@ -131,7 +132,6 @@ export default {
           object-fit: scale-down;
           @media screen and (max-width: 1440px) {
             max-width: 100%;
-            // width: 617px;
           }
         }
       }
